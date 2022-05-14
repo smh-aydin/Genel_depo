@@ -1,7 +1,19 @@
 
 #include <iostream>
-
+#include <stdio.h>
+#include <conio.h>
 int main()
 {
-    std::cout << "Hello World!\n";
+    printf("Hello World\n");
+    printf("SemihAydin\n");
+    printf("AhmetBasli\n");
+
+    for (int i = 0; i < 10; i++)
+    {
+        printf("%d\n", i);
+
+    }
+
+
+    return 0;
 }
