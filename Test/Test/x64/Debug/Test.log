@@ -1,2 +1,3 @@
-﻿  Test.cpp
-  Test.vcxproj -> D:\semih\Documents\Git_deneme\Test\x64\Debug\Test.exe
+﻿  Test.c
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\semih\Documents\Git_deneme\Test\x64\Debug\Test.exe : fatal error LNK1120: 1 unresolved externals
